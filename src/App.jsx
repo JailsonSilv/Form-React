@@ -45,6 +45,7 @@ const Footer = styled.div`
   @media (max-width: 550px){
     display: flex;
     justify-content: center;
+    align-items: center;
   }
 `;
 
