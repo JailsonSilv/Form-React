@@ -44,10 +44,10 @@ const Footer = styled.div`
 `;
 
 const Button = styled.button`
-  padding: 8px;
+  padding: 10px;
   font-size: 20px;
   cursor: pointer;
-  background-color: #0081cf;
+  background-color: blue;
   color: black;
   border: none;
   border-radius: 5px;
