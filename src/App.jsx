@@ -56,6 +56,7 @@ const Button = styled.button`
     width: 150px;
     align-items: center;
     margin:0 auto;
+    color: #fff;
   }
 `;
 
