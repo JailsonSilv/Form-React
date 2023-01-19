@@ -51,6 +51,12 @@ const Button = styled.button`
   color: black;
   border: none;
   border-radius: 5px;
+
+  @media (max-width: 550px) {
+    display: flex;
+    align-items:center;
+    width:8px 15px;
+  }
 `;
 
 
