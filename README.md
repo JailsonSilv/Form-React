@@ -10,6 +10,6 @@ Um formulário com a lib formik que auxilia muito na criação, e também o uso 
 ## Veja como é: 
 ![Form formik](https://user-images.githubusercontent.com/104876290/213479772-e0c145c6-2a85-4d88-bca9-1eeb53308803.png)
 
- Teste <a href="https://form-react-nu.vercel.app/" _blank >aqui!</a>⚡
+ Teste <a href="https://form-react-nu.vercel.app/">aqui!</a>⚡
 
-Feito por <a href="https://www.linkedin.com/in/jailsondev-front-end/ target="_blank">Jailson Silva</a>🚀🚀
+Feito por <a href="https://www.linkedin.com/in/jailsondev-front-end/">Jailson Silva</a>🚀🚀
