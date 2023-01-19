@@ -62,7 +62,7 @@ const Button = styled.button`
     justify-content: center;
     align-items: center;
     font-size: 25px;
-    color: white;
+    
     background-color: blue;
   }
 `;
@@ -144,7 +144,7 @@ export default function App() {
               </Row>
 
               <Footer>
-                <Button type="submit" disabled={isSubmitting} color="#fff">
+                <Button type="submit" disabled={isSubmitting} color="white">
                     Salvar
                 </Button>
               </Footer>
