@@ -54,6 +54,7 @@ const Button = styled.button`
 
   @media (max-width: 550px) {
     width: 150px;
+    border: none;
     align-items: center;
     margin:0 auto;
     font-size: 25px;
