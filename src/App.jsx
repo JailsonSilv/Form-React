@@ -45,6 +45,7 @@ const Footer = styled.div`
   @media (max-width: 550px){
     display: flex;
     justify-content: center;
+    width: 150px;
   }
 `;
 
@@ -52,7 +53,6 @@ const Button = styled.button`
   padding: 10px;
   font-size: 20px;
   cursor: pointer;
-  background-color: blue;
   color: black;
   border: none;
   border-radius: 5px;
@@ -62,8 +62,6 @@ const Button = styled.button`
     justify-content: center;
     align-items: center;
     font-size: 25px;
-    
-    background-color: blue;
   }
 `;
 
