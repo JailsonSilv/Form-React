@@ -136,7 +136,7 @@ export default function App() {
               </Row>
 
               <Footer>
-                <Button type="submit" disabled={isSubmitting}>
+                <Button type="submit" disabled={isSubmitting} color="#fff">
                     Salvar
                 </Button>
               </Footer>
