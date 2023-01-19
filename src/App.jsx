@@ -55,7 +55,7 @@ const Button = styled.button`
   @media (max-width: 550px) {
     display: flex;
     align-items:center;
-    width:8px 15px;
+    width: 150px;
   }
 `;
 
