@@ -53,12 +53,13 @@ const Button = styled.button`
   border-radius: 5px;
 
   @media (max-width: 550px) {
-    width: 150px;
+    width: 10px;
     border: none;
     align-items: center;
     margin:0 auto;
     font-size: 25px;
-    color: black;
+    color: white;
+    background-color: blue;
   }
 `;
 
