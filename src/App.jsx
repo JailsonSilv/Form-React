@@ -41,6 +41,11 @@ const Row = styled.div`
 
 const Footer = styled.div`
   text-align: end;
+
+  @media (max-width: 550px){
+    display: flex;
+    justify-content: center;
+  }
 `;
 
 const Button = styled.button`
@@ -53,8 +58,6 @@ const Button = styled.button`
   border-radius: 5px;
 
   @media (max-width: 550px) {
-    width: 150px;
-    border: none;
     display: flex;
     justify-content: center;
     align-items: center;
